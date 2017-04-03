@@ -1,4 +1,7 @@
 # 4th Snail Indoor World Championship
+
+![promo](./promo.png)
+
 A simple game created for Ludum Dare 37
 
 Created using Unity 5.5.0f3 and Visual Studio 2015
